@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://lolinetbellanotte.pages.dev/sitemap.xml
+Sitemap: https://demo889910.pages.dev/sitemap.xml
