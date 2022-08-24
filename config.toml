@@ -21,6 +21,10 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 default_authors = ["husen"]
+seo = true
+author = "El Carpet"
+ogimage = "blog-cover.jpg"
+
 
 navigation = [
     { name = "Home", url = "/" },
